@@ -1,0 +1,8 @@
+server:
+  session:
+    timeout: 60
+vaadin:
+  servlet:
+    heartbeat-interval: 10
+    close-idle-sessions: true
+    production-mode: false
